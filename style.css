@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(8, 58, 124);
+  font-family: "Lora", 14px;
+  margin: 50px;
+  padding: 10px;
+}
+
+h1 {
+  color: black;
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+}
+
+div {
+  background-color: rgb(9, 48, 98);
+  color: white;
+}
+
+ul {
+  background-color: rgb(9, 48, 98);
+  color: white;
+}
+
+button {
+  background-color: green;
+}
+
+img {
+  width: 200px;
+}/*# sourceMappingURL=style.css.map */

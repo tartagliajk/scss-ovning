@@ -1,0 +1,38 @@
+$baccolor: rgb(9, 48, 98);
+$textcol: white;
+$headercol: black;
+$fontfam: 'Lora', 14px;
+$butcol: green;
+$margin: 50px;
+$padding: 10px;
+$width: 200px;
+
+body{
+    background-color: rgb(8, 58, 124);
+    font-family: $fontfam;
+    margin: 50px;
+    padding: $padding;
+}
+
+h1{
+    color: $headercol;
+    text-decoration: dotted;
+}
+
+div{
+    background-color: $baccolor;
+    color: $textcol;
+}
+
+ul{
+    background-color: $baccolor;
+    color: $textcol;
+}
+
+button{
+    background-color: $butcol;
+}
+
+img{
+    width: $width;
+}
